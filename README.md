@@ -14,4 +14,4 @@ This file contains a number of plots (with subplots within) containing all data 
 This file contains a number of plots (with subplots within) containing all data shown in the article which relates to the computationally obtained collision cross sections and the experimental collision cross section distribution.
 
 ### Related content:
-## [Bottom-Up Elucidation of Glycosidic Bond Stereochemistry](pubs.acs.org/doi/abs/10.1021/acs.analchem.6b04998)
+### [Bottom-Up Elucidation of Glycosidic Bond Stereochemistry](pubs.acs.org/doi/abs/10.1021/acs.analchem.6b04998)
