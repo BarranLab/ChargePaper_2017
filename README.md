@@ -7,8 +7,8 @@ authored by:
 The data showcased in the publication is relatively dense, with a large number of datapoints. In our opinion, the readers would benefit from being able to interrogate each dataset in detail. The notebooks were designed to contain figures practically identical to those in the paper (in terms of datasets). The reader is able to hover, zoom and select/deselect datasets for comparison. 
 
 The directory contains multiple files:
-## - Partial atomic charges - figures.ipynb
+## [Partial atomic charges - figures.ipynb](https://github.com/lukasz-migas/ChargePaper_2017/blob/master/Partial%20atomic%20charges%20-%20figures.ipynb).
 This file contains a number of plots (with subplots within) containing all data show in the article which relates to the computationally obtained partial atomic charges.
 
-## - Collision Cross Sections - figures.ipynb
+## [Collision Cross Sections - figures.ipynb](https://github.com/lukasz-migas/ChargePaper_2017/blob/master/Collision%20cross%20sections%20-%20figures.ipynb).
 This file contains a number of plots (with subplots within) containing all data shown in the article which relates to the computationally obtained collision cross sections and the experimental collision cross section distribution.
