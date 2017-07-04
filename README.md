@@ -16,4 +16,4 @@ This file contains a number of plots (with subplots within) containing all data 
 ### Related content:
 ### [Bottom-Up Elucidation of Glycosidic Bond Stereochemistry](http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b04998)
 #### DOI: 10.1021/acs.analchem.6b04998
-#### Authors: Christopher J. Gray, Baptiste Schindler, Lukasz G. Migas, Martina Pičmanová, Abdul R. Allouche, Anthony P. Green, Santanu Mandal, Mohammed S. Motawia, Raquel Sánchez-Pérez, Nanna Bjarnholt, Birger L. Møller, Anouk M. Rijs, Perdita E. Barran, Isabelle Compagnon, Claire E. Eyers, and Sabine L. Flitsch
+Christopher J. Gray, Baptiste Schindler, Lukasz G. Migas, Martina Pičmanová, Abdul R. Allouche, Anthony P. Green, Santanu Mandal, Mohammed S. Motawia, Raquel Sánchez-Pérez, Nanna Bjarnholt, Birger L. Møller, Anouk M. Rijs, Perdita E. Barran, Isabelle Compagnon, Claire E. Eyers, and Sabine L. Flitsch
