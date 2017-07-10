@@ -6,6 +6,10 @@ authored by:
 
 The data showcased in the publication is relatively dense, with a large number of datapoints. In our opinion, the readers would benefit from being able to interrogate each dataset in detail. The notebooks were designed to contain figures practically identical to those in the paper (in terms of datasets). The reader is able to hover, zoom and select/deselect datasets for comparison. 
 
+## HTML versions of figures
+## [Collision Cross Sections - figures (HTML)](https://cdn.rawgit.com/lukasz-migas/ChargePaper_2017/436b93a9/Collision%20Cross%20Sections%20-%20monosaccharides%20-%20Migas%202017.html)
+This webpage contains all CCS plots shown in the paper. 
+
 The directory contains multiple files:
 ## [Partial atomic charges - figures.ipynb](https://github.com/lukasz-migas/ChargePaper_2017/blob/master/Partial%20atomic%20charges%20-%20figures.ipynb)
 This file contains a number of plots (with subplots within) containing all data show in the article which relates to the computationally obtained partial atomic charges.
