@@ -23,3 +23,8 @@ This file contains a number of plots (with subplots within) containing all data 
 ### [Bottom-Up Elucidation of Glycosidic Bond Stereochemistry](http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b04998)
 #### DOI: 10.1021/acs.analchem.6b04998
 Christopher J. Gray, Baptiste Schindler, Lukasz G. Migas, Martina Pičmanová, Abdul R. Allouche, Anthony P. Green, Santanu Mandal, Mohammed S. Motawia, Raquel Sánchez-Pérez, Nanna Bjarnholt, Birger L. Møller, Anouk M. Rijs, Perdita E. Barran, Isabelle Compagnon, Claire E. Eyers, and Sabine L. Flitsch
+
+### Notes
+In case the HTML links do not work, you can simply click on the file in the file list and download it as HTML and open in your preferred internet browser. In case you encounter any problems, please contact Lukasz Migas at
+
+<b> lukasz.migas@manchester.ac.uk</b>
