@@ -1,5 +1,3 @@
-This folder contains interactive iPython notebooks containing adapted figures from the submitted article with the title:
-
 # A Careful Consideration of the Influence of Structure, Partial charges and Basis Sets on Collision Cross Sections of Monosaccharides when Comparing Values from DFT calculations to those Obtained Experimentally
 authored by: 
 ## Lukasz G. Migas, Christopher J. Gray, Sabine L. Flitsch and Perdita E. Barran
