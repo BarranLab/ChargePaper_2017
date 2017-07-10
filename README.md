@@ -10,12 +10,12 @@ The data showcased in the publication is relatively dense, with a large number o
 ## [Collision Cross Sections - figures (HTML)](https://cdn.rawgit.com/lukasz-migas/ChargePaper_2017/6710e2a4/Collision%20Cross%20Sections%20-%20monosaccharides%20-%20Migas%202017.html)
 This webpage contains all CCS plots shown in the paper. 
 
-## [Partial atomic charges - figures.ipynb](https://cdn.rawgit.com/lukasz-migas/ChargePaper_2017/6710e2a4/Partial%20Atomic%20Charges%20-%20monosaccharides%20-%20Migas%202017.html)
+## [Partial Atomic Charges - figures (HTML)](https://cdn.rawgit.com/lukasz-migas/ChargePaper_2017/6710e2a4/Partial%20Atomic%20Charges%20-%20monosaccharides%20-%20Migas%202017.html)
 This webpage contains all Partial Atomic Charges plots shown in the paper. 
 
 ## IPython Notebook versions of figures
 The directory contains multiple files:
-## [Partial atomic charges - figures.ipynb](https://github.com/lukasz-migas/ChargePaper_2017/blob/master/Partial%20atomic%20charges%20-%20figures.ipynb)
+## [Partial Atomic Charges - figures.ipynb](https://github.com/lukasz-migas/ChargePaper_2017/blob/master/Partial%20atomic%20charges%20-%20figures.ipynb)
 This file contains a number of plots (with subplots within) containing all data show in the article which relates to the computationally obtained partial atomic charges.
 
 ## [Collision Cross Sections - figures.ipynb](https://github.com/lukasz-migas/ChargePaper_2017/blob/master/Collision%20cross%20sections%20-%20figures.ipynb)
