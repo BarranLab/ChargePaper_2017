@@ -5,10 +5,10 @@ authored by:
 The data showcased in the publication is relatively dense, with a large number of datapoints. In our opinion, the readers would benefit from being able to interrogate each dataset in detail. The notebooks were designed to contain figures practically identical to those in the paper (in terms of datasets). The reader is able to hover, zoom and select/deselect datasets for comparison. 
 
 ## HTML versions of figures
-## [Collision Cross Sections - figures (HTML)](https://cdn.rawgit.com/BarranLab/ChargePaper_2017/8110f250/Collision%20Cross%20Sections%20-%20monosaccharides%20-%20Migas%202017.html)
+## [Collision Cross Sections - figures (HTML)](https://cdn.rawgit.com/BarranLab/ChargePaper_2017/13fe1d3/Collision%20Cross%20Sections%20-%20monosaccharides%20-%20Migas%202017.html)
 This webpage contains all CCS plots shown in the paper. 
 
-## [Partial Atomic Charges - figures (HTML)](https://cdn.rawgit.com/BarranLab/ChargePaper_2017/8110f250/Partial%20Atomic%20Charges%20-%20monosaccharides%20-%20Migas%202017.html)
+## [Partial Atomic Charges - figures (HTML)](https://cdn.rawgit.com/BarranLab/ChargePaper_2017/13fe1d39/Partial%20Atomic%20Charges%20-%20monosaccharides%20-%20Migas%202017.html)
 This webpage contains all Partial Atomic Charges plots shown in the paper. 
 
 ## IPython Notebook versions of figures
