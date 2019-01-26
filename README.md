@@ -8,11 +8,11 @@ The data showcased in the publication is relatively dense, with a large number o
 
 ## HTML versions of figures
 
-[Collision Cross Sections - figures (HTML)](https://cdn.rawgit.com/BarranLab/ChargePaper_2017/13fe1d3/Collision%20Cross%20Sections%20-%20monosaccharides%20-%20Migas%202017.html)
+[Collision Cross Sections - figures (HTML)](https://migas-charge-2017.netlify.com/assets/collision%20cross%20sections%20-%20monosaccharides%20-%20migas%202017)
 
 This webpage contains all CCS plots shown in the paper.
 
-[Partial Atomic Charges - figures (HTML)](https://cdn.rawgit.com/BarranLab/ChargePaper_2017/13fe1d39/Partial%20Atomic%20Charges%20-%20monosaccharides%20-%20Migas%202017.html)
+[Partial Atomic Charges - figures (HTML)](https://migas-charge-2017.netlify.com/assets/partial%20atomic%20charges%20-%20monosaccharides%20-%20migas%202017)
 
 This webpage contains all Partial Atomic Charges plots shown in the paper.
 
@@ -30,7 +30,9 @@ This file contains a number of plots (with subplots within) containing all data 
 ## Related content
 
 [Bottom-Up Elucidation of Glycosidic Bond Stereochemistry](http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b04998)
+
 DOI: 10.1021/acs.analchem.6b04998
+
 Christopher J. Gray, Baptiste Schindler, Lukasz G. Migas, Martina Pičmanová, Abdul R. Allouche, Anthony P. Green, Santanu Mandal, Mohammed S. Motawia, Raquel Sánchez-Pérez, Nanna Bjarnholt, Birger L. Møller, Anouk M. Rijs, Perdita E. Barran, Isabelle Compagnon, Claire E. Eyers, and Sabine L. Flitsch
 
 ## Notes
